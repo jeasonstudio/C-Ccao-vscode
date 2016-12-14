@@ -1,6 +1,8 @@
 {
     "version": "0.1.0",
     "command": "clang++",
+    "isShellCommand": true,
+    "showOutput": "always",
     "args": ["-g", "${file}", "-o", "${file}.o"],
     "problemMatcher": {
         "owner": "cpp",
