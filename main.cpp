@@ -5,8 +5,8 @@ int main(void)
 {
     int i, j;
 
-    scanf("%d", &i);
-    printf("%d\n", i);
+    // scanf("%d", &i);
+    // printf("%d\n", i);
 
     for (i = 1; i < 10; i++)
     {
